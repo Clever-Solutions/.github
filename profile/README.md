@@ -1,4 +1,5 @@
-## Hi there 👋
+## Clever Solutions is a group of passionate developers from Azerbaijan. We Develop High quality Web and mobile applications using best tech standart.
+
 
 <!--
 
